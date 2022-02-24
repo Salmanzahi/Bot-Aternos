@@ -1,9 +1,9 @@
 {
-	"ip":"PureMC.aternos.me",
-	"port": "27759",
-	"name": "ChrishtinJnthn10",
+	"ip":"play.kaznets.com",
+	"port": "53247",
+	"name": "NaraAjg",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
-	"register-cmd":"/register pass123 ",
-	"login-cmd":"/login pass123 "
+	"login-enabled":"true",
+	"register-cmd":"/register naralala11 ",
+	"login-cmd":"/login naralala11 "
 }
