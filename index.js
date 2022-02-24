@@ -46,11 +46,11 @@ function task(i) {
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("Selamat bergabung di server ini")
+	bot.chat("Bang Liat aku @everyone")
 	first = false;
 	}
 	else{
-		bot.chat("Diperbarui oleh vanevgt")
+		bot.chat("/tpa pino")
 		first = true;
 	}
   }, 3600000 * i); 
